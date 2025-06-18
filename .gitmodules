@@ -61,3 +61,6 @@
 [submodule ".vim/pack/kristijanhusak/start/vim-dadbod-ui"]
 	path = .vim/pack/kristijanhusak/start/vim-dadbod-ui
 	url = https://github.com/kristijanhusak/vim-dadbod-ui.git
+[submodule ".vim/pack/vim-lsp/start/vim-lsp"]
+	path = .vim/pack/vim-lsp/start/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp.git
